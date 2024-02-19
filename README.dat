@@ -5,7 +5,7 @@
 
 # Image Descriptor
 
-Image descriptor is a Python-based web application leveraging the power of deep learning and natural language processing to provide captivating insights into images. With this, users can upload their images or provide a link to an image, and the system will analyze it using the YOLOv8 model from KerasCV.
+Imagedescriptor is a Python-based web application leveraging the power of deep learning and natural language processing to provide captivating insights into images. With this, users can upload their images or provide a link to an image, and the system will analyze it using the YOLOv8 model from KerasCV.
 
 The YOLOv8 model detects objects within the image, providing a comprehensive list of identified objects. But the magic doesn't stop there. GeminiVision goes further by harnessing the capabilities of Gemini AI to craft beautiful and aesthetic captions that encapsulate the essence of the image.
 ## Team members
